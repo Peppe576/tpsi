@@ -1,0 +1,5 @@
+int potenza(int base,int esponente)
+{
+    trace();
+    int risultato =1;
+    for (int i= 0; i>)

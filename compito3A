@@ -1,0 +1,24 @@
+  
+
+  #include "math.h"
+#include "trace.h"
+int somma (int a ,int b){
+trace();
+return a+b;
+}
+
+
+int differenza(int a ,int){
+    trace(;
+return a-b;
+}
+
+
+int moltiplicazione (int a,int b ){
+    trace ();
+    return a*b
+}
+
+float divisione (float a , float){
+    
+}
